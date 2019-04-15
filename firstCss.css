@@ -1,0 +1,85 @@
+div {
+	border-radius: 5px;
+	border:2px solid red;
+	background-color: pink;
+	height: 25px;
+	font-family: Calibri;
+	text-align: center;
+	font-size: 40px;
+}
+
+body {
+    background: url(fotka.png);
+   }
+
+#h1 {
+
+	border-radius: 12px;
+	border: 6px solid maroon;
+	background-color: crimson;
+	height: 25px;
+	display: inline;
+	position: relative;
+	margin-left: 400px;
+	margin-top: 10px;
+	font-family: Calibri;
+	text-align: center;
+	color: black;
+	font-size: 70px;
+}
+
+#div {
+
+	display: inline;
+	position: relative;
+	margin-left: none;
+	margin-top: 8px;
+	font-family: Calibri;
+	color: black;
+}
+
+#p1 {
+	display: inline;
+	position: relative;
+	margin-left: 230px;
+}
+
+#p2 {
+	display: inline;
+	position: relative;
+	margin-left: 13px;
+}
+
+#p3 {
+	display: inline;
+	position: relative;
+	margin-left: 13px;
+}
+
+#title {
+	display: inline;
+	position: relative;
+	margin-left:50px;
+}
+
+#body {
+	display: inline;
+	position: relative;
+	margin-left:60px;
+}
+
+#head {
+	display:inline;
+	position:relative;
+	margin-left:60px;
+}
+
+#html {
+	display:inline;
+	position: relative;
+	margin-left: 170px;
+}
+
+.space {
+	opacity: 0;
+}
